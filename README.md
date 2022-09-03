@@ -75,11 +75,12 @@ python main.py \
 ```
 python merge_embeddings.py --manager_ckpts /path/to/first/embedding.pt /path/to/second/embedding.pt [...] --output_path /path/to/output/embedding.pt
 ```
-#
+## COLAB NOTEBOOK
 #
 **colab notebook for training if your gpu is not good enough to train. (free colab version works)**
 https://colab.research.google.com/drive/1MggyUS5BWyNdoXpzGkroKgVoKlqJm7vI?usp=sharing
 #
+# ## RUNPOD VERSION
 #
 **use this repo for runpod**
 https://github.com/GamerUntouch/textual_inversion
